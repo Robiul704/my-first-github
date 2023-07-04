@@ -1,3 +1,9 @@
 div{
     background-color: blue;
+    margin: 20px;
+    border-radius: ;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
 }
